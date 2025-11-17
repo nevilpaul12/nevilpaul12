@@ -1,9 +1,5 @@
 ## Hi, I'm Nevil Paul
 
-🚀 Software Development Engineer at DealBerg Technologies, building scalable and user-focused web applications.
-💻 2+ years of hands-on experience specializing in modern frontend development.
-⚡ Skilled in crafting responsive UI, optimizing performance, and delivering production-ready features.
-📚 Constantly learning, improving, and pushing clean engineering practices into every project.
 
 # 💫 About Me:
 Software Development Engineer at DealBerg Technologies with 2+ years of experience in building fast, scalable, and user-centric web applications. I specialize in modern frontend development, crafting clean UIs, optimizing performance, and shipping features that matter. Always learning, always improving, and always engineering with intent.
